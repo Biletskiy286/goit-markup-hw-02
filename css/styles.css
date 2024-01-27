@@ -80,7 +80,7 @@ ol {
 }
 .button-one-section:hover,
 .button-one-section:focus{
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 
 /* SEECTION 2 */
@@ -96,7 +96,7 @@ line-height: 1.11;
 letter-spacing: 0.02;
 text-transform: capitalize;
 }
-.section-h3 {
+.section-header-three {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -129,7 +129,7 @@ text-transform: capitalize;
   background-color: #FFFFFF;
 
 }
-.section-h3 {
+.section-header-three {
 
 }
 .section-three-p {
