@@ -41,6 +41,9 @@ ol {
   }
 .address {
   font-style: normal;
+}
+
+.address-item {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
@@ -72,7 +75,6 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  background-color: #404BBF;
   cursor: pointer;
 
 }
@@ -127,12 +129,16 @@ text-transform: capitalize;
   background-color: #FFFFFF;
 
 }
+.section-h3 {
 
+}
 .section-three-p {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color:#434455; 
 }
+
+
 /* SECTION 4 */
 .section-four {
   
@@ -148,7 +154,7 @@ text-transform: capitalize;
 
 
 }
-.section-four-h3 {
+.section-four-h {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
