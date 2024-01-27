@@ -53,19 +53,19 @@ ol {
 
 
 /* SECTION 1 */
-.section1 {
+.section-one {
   background-color:#2e2f42;
 
 }
 
-.section1header {
+.section-one-header {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color:#ffffff;
 }
-.button1section {
+.button-one-section {
   background-color: #4D5AE5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -76,15 +76,15 @@ ol {
   cursor: pointer;
 
 }
-.button1section:hover,
-.button1section:focus{
+.button-one-section:hover,
+.button-one-section:focus{
   background-color: #404BBF;
 }
 
 /* SEECTION 2 */
-.section2 {
+.section-two {
 }
-.section2-title {
+.section-two-title {
   color:#2E2F42;
 text-align: center;
 font-size: 36px;
@@ -102,7 +102,7 @@ text-transform: capitalize;
   color: #2e2f42;
 }
 
-.section2-p {
+.section-two-p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -111,10 +111,10 @@ text-transform: capitalize;
 }
 
 /* SECTION 3 */
-.section3 {
+.section-three {
   background-color: #F4F4FD;
 }
-.section3-title {
+.section-three-title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -123,22 +123,22 @@ text-transform: capitalize;
   color:#2e2f42;
 }
 
-.s3-list-item{
+.s-three-list-item{
   background-color: #FFFFFF;
 
 }
 
-.section3-p {
+.section-three-p {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color:#434455; 
 }
 /* SECTION 4 */
-.section4{
+.section-four {
   
 
 }
-.section4-title {
+.section-four-title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -148,26 +148,25 @@ text-transform: capitalize;
 
 
 }
-.section4-h3 {
+.section-four-h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color:#2e2f42;
 }
-.section4-p {
+.section-four-p {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color:#434455;
 
 }
 
-background-color зі значенням #2e2f42
-
 /* FOOTER */
 
 .footer {
-  background-color:#2e2f42;}
+  background-color:#2e2f42;
+} 
 
 .logo-blu-footer{
     color: #f4f4fd;
