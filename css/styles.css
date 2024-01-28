@@ -49,9 +49,9 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.address:hover,
-.address:focus{
-  color: #404BBF;
+.address-item:hover,
+.address-item:focus{
+  color: #404bbf;
 }
 
 
@@ -95,6 +95,9 @@ font-weight: 700;
 line-height: 1.11;
 letter-spacing: 0.02;
 text-transform: capitalize;
+}
+.section-two-list-item {
+
 }
 .section-header-three {
   font-weight: 500;
